@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PpAuthApplication {
+public class PPAuthApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PpAuthApplication.class, args);
+		SpringApplication.run(PPAuthApplication.class, args);
 	}
 
 }
